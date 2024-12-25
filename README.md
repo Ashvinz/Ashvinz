@@ -10,8 +10,7 @@ Aspiring Data Analyst 📊
 - 🎯 Focused on building real-world projects to showcase my abilities and enhance my portfolio
 - 🤔 I’m looking for help with Placements in FA
 - 📫 How to reach me :
-<br />
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aswinkumar-r2003/)[<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />](aswinkumarr32@gmail.com/)
+<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aswinkumar-r2003)[<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />](https://aswinkumarr32@gmail.com/)
 
 
 
