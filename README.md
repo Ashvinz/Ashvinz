@@ -2,7 +2,6 @@
 ## Hi there 👋 It's me Aswin
 
 Aspiring Data Analyst 📊
-Computer Science Engineering Student
 
 - 🔭 Here's my [portfolio](https://www.datascienceportfol.io/aswin)
 - 📊 Strong in data wrangling, EDA (Exploratory Data Analysis), and data visualization                                               
@@ -12,7 +11,7 @@ Computer Science Engineering Student
 - 🤔 I’m looking for help with Placements in FA
 - 📫 How to reach me :
 <br />
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/aswinkumar-r2003])
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aswinkumar-r2003))
 [<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" />](aswinkumarr32@gmail.com)
 
 
