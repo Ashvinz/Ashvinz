@@ -2,7 +2,7 @@
 ## Hi there 👋 It's me Aswin
 
 Aspiring Data Analyst 📊
-<img align="right" width="370" height="290" src="https://www.bing.com/ck/a?!&&p=ce821cc5425f51347dc574cee9479105480285fc0e0e5ebc14dd770a0ea2c2d3JmltdHM9MTczNTA4NDgwMA&ptn=3&ver=2&hsh=4&fclid=24853931-227b-6b5a-1fd4-2c6f23046aaf&u=a1L2ltYWdlcy9zZWFyY2g_cT1hbmltYXRlZCUyMGFuYWx5c3QlMjBnaWYmRk9STT1JUUZSQkEmaWQ9ODI1NEFDMjUzRDVBMDM4QUIwOTg0OEQzMTBBQzM0ODREQzE3ODUyMA&ntb=1.gif">
+<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
 - 🔭 Here's my [portfolio](https://www.datascienceportfol.io/aswin)
 - 📊 Strong in data wrangling, EDA (Exploratory Data Analysis), and data visualization                                               
 - 🌱 I’m currently learning Deep Learning | Machine Learning
