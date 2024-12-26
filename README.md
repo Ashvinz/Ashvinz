@@ -2,7 +2,7 @@
 ## Hi there 👋 It's me Aswin
 
 Aspiring Data Analyst 📊
-
+<img align="right" width="370" height="290" src="https://sl.bing.net/bSy7XS6tKP6.gif">
 - 🔭 Here's my [portfolio](https://www.datascienceportfol.io/aswin)
 - 📊 Strong in data wrangling, EDA (Exploratory Data Analysis), and data visualization                                               
 - 🌱 I’m currently learning Deep Learning | Machine Learning
