@@ -3,7 +3,7 @@
 
 Aspiring Data Analyst 📊
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
-- 🔭 Here's my [portfolio](https://aswinkumar-r.github.io/Portfolio/)
+- 🔭 Here's my [portfolio](https://aswinkumar-r.github.io/portfolio/)
 - 📊 Strong in data wrangling, EDA (Exploratory Data Analysis), and data visualization                                               
 - 🌱 I’m currently learning Deep Learning | Machine Learning
 - 🌍 Passionate about solving real-world problems through data-driven insights
