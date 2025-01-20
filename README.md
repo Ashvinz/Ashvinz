@@ -3,7 +3,7 @@
 
 Aspiring Data Analyst 📊
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
-- 🔭 Here's my [portfolio](https://aswinkumar-r.github.io/PortFolio_new/)
+- 🔭 Here's my [portfolio](https://aswinkumar-r.github.io/PortFolio_New/)
 - 📊 Strong in data wrangling, EDA (Exploratory Data Analysis), and data visualization                                               
 - 🌱 I’m currently learning Deep Learning | Machine Learning
 - 🌍 Passionate about solving real-world problems through data-driven insights
@@ -22,6 +22,7 @@ Aspiring Data Analyst 📊
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
   ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
   ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
+
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
