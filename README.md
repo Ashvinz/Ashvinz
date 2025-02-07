@@ -40,7 +40,7 @@ Aspiring Data Analyst 📊
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
 
 
-<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>Connect with me:</h3> 
+<h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22> Connect with me: </h3> 
 
 [<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](http://www.linkedin.com/in/aswinkumar-r2003)
 [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://x.com/aswinkumar_003)
