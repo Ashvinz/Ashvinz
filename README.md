@@ -8,8 +8,6 @@ Aspiring Data Analyst 📊
 - 🌱 I’m currently learning Deep Learning | Machine Learning
 - 🌍 Passionate about solving real-world problems through data-driven insights
 - 🎯 Focused on building real-world projects to showcase my abilities and enhance my portfolio
-- 📫 How to reach me :
-<br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aswinkumar-r2003)
 
 
 
