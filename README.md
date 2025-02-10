@@ -37,10 +37,7 @@ Aspiring Data Analyst 📊
 
 <h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>  Connect with me : </h3>  
 
-[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](http://www.linkedin.com/in/aswinkumar-r2003)  
-[<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://x.com/aswinkumar_003)  
-[<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/AswinKumar-R)  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
+[<img src='https://cdn3.iconfinder.com/data/icons/capsocial-round/500/linkedin-64.png' alt='linkedin' height='40'>](http://www.linkedin.com/in/aswinkumar-r2003)  [<img src='https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-64.png' alt='twitter' height='40'>](https://x.com/aswinkumar_003)  [<img src='https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-64.png' alt='github' height='40'>](https://github.com/AswinKumar-R)<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">  
 
 ### 💻  Workspace Spec  
 <img height="30" src="https://img.shields.io/badge/Dell-Inspiron_5-0076D6?style=for-the-badge&logo=dell&logoColor=white"/>  
