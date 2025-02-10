@@ -17,7 +17,6 @@ Aspiring Data Analyst 📊
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
   ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit-learn)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
   ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
 
 - 🌐 &nbsp;
