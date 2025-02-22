@@ -1,4 +1,4 @@
-## Hi there 👋 I’m @Aswin
+## Hi there 👋 I’m Aswin
 
 Aspiring Data Analyst 📊  
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">  
