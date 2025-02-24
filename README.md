@@ -11,25 +11,21 @@ Aspiring Data Analyst 📊
 <h3> 🛠 &nbsp;Tech Stack <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"></h3>  
 
 - 💻 &nbsp;
-  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit-learn)![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)![Natural Language Processing](https://img.shields.io/badge/-NLP-333333?style=flat&logo=nlp)![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=deep-learning)  
+  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit-learn) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow) ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML) ![Natural Language Processing](https://img.shields.io/badge/-NLP-333333?style=flat&logo=nlp) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-333333?style=flat&logo=deep-learning)  
 
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![FLASK](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![FLASK](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
 
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) ![SQLite3](https://img.shields.io/badge/-SQLite3-333333?style=flat&logo=sqlite) ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-333333?style=flat&logo=microsoft-sql-server)
+
 
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 
 <h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>  Connect with me : </h3>  
 
