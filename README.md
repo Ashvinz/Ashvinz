@@ -14,7 +14,6 @@ Aspiring Data Analyst 📊
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
   ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)  
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
   ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-333333?style=flat&logo=scikit-learn)  
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)  
   ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)  
@@ -37,6 +36,7 @@ Aspiring Data Analyst 📊
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)  
 
 <h3 align="left"><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=22 height=22>  Connect with me : </h3>  
 
