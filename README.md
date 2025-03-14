@@ -2,25 +2,7 @@
 
 ### 📊 **Data Analyst** | 🤖 **Data Scientist** | 💡 **Tech Enthusiast**  
 
-<br>
-
-<table>
-  <tr>
-    <td>
-      <img src="./assets/developer-640px.gif" width="850px" style="border-radius: 50px;" />
-    </td>
-    <td>
-      <p align="left">
-        🚀 I specialize in crafting <strong>scalable, high-performance, and innovative solutions</strong> across **data-driven technologies, frontend, and backend**. 💡💻  
-        
-        🔥 Passionate about **emerging tech**, I constantly push boundaries in **Data Science, Machine Learning, and AI** 🤖📊.  
-        
-        💡 **Prob lem-solving is my superpower!** Whether it's **optimizing workflows ⚙️, building predictive models 🔮, or uncovering impactful insights 📈**, I love turning data into action-driven solutions.
-      </p>
-    </td>  
-  </tr>
-</table>
-</br>
+<img align="right" width="370" height="290" src="./assets/developer-640px.gif">  
 ---
 
 ## 🚀 **About Me**  
