@@ -1,4 +1,4 @@
-# Hii! I'm Aswin Kumar 👋  
+# Hi..! I'm Aswin Kumar 👋  
 
 ### 📊 Data Analyst | 🤖 Data Scientist | 💡 Tech Enthusiast
 
@@ -6,32 +6,16 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/developer-640px.gif" width="400px" style="border-radius: 10px;" />
+      <img src="./assets/developer-640px.gif" width="850px" style="border-radius: 50px;" />
     </td>
     <td>
       <p align="left">
-        I specialize in crafting <strong>scalable, high-performance, and innovative solutions</strong> across frontend, backend, and data-driven technologies.  
-        Passionate about emerging tech, I continuously explore and push boundaries in <strong>Data Science, Machine Learning, and AI</strong>.  
-        I thrive on solving complex problems, optimizing workflows, and delivering impactful insights.  
+        🚀 I specialize in crafting <strong>scalable, high-performance, and innovative solutions</strong> across frontend, backend, and data-driven technologies. 💡💻
+
+🔥 Passionate about emerging tech, I thrive on exploring and pushing the boundaries of Data Science, Machine Learning, and AI 🤖📊.
+
+💡 Problem-solving is my superpower! Whether it's optimizing workflows ⚙️, building predictive models 🔮, or delivering impactful insights 📈, I turn data into actionable solutions that drive success!
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h2 align="center">🚀 My Story</h2>
-      <p align="center">
-        From curiosity to expertise—my journey has been all about exploring the vast world of <strong>data, automation, and intelligence</strong>.  
-        I believe in the power of <strong>data-driven decision-making</strong> and the endless possibilities of AI & Machine Learning.  
-        Every dataset tells a story, and I love uncovering insights that make a difference.  
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <h3>🌐 My Portfolio</h3>
-      <p>Check out my latest projects, case studies, and innovations:</p>
-      <a href="https://ashvinz.github.io/PortFolio_New/">
-      </a>
     </td>
   </tr>
 </table>
@@ -40,7 +24,6 @@
 
 - 🔭 Here's my [portfolio](https://ashvinz.github.io/PortFolio_New/)  
 - 📊 Strong in data wrangling, EDA (Exploratory Data Analysis), and data visualization                                               
-- 🌍 Passionate about solving real-world problems through data-driven insights  
 - 🎯 Focused on building real-world projects to showcase my abilities and enhance my portfolio 
 - 🔍 Exploring **AI, Machine Learning, and Deep Learning**  
 - 🛠️ Building solutions with **Python, Power BI, Tableau, and more**  
