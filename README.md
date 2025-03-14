@@ -1,4 +1,4 @@
-# Yoo! I'm Aswin Kumar 👋  
+# Hii! I'm Aswin Kumar 👋  
 
 ### 📊 Data Analyst | 🤖 Data Scientist | 💡 Tech Enthusiast
 
@@ -6,32 +6,36 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/developer-300px.gif" width="400px" style="border-radius: 10px;" />
+      <img src="./assets/developer-640px.gif" width="400px" style="border-radius: 10px;" />
     </td>
     <td>
-      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" style="border-radius: 10px;" />
+      <p align="left">
+        I specialize in crafting <strong>scalable, high-performance, and innovative solutions</strong> across frontend, backend, and data-driven technologies.  
+        Passionate about emerging tech, I continuously explore and push boundaries in <strong>Data Science, Machine Learning, and AI</strong>.  
+        I thrive on solving complex problems, optimizing workflows, and delivering impactful insights.  
+      </p>
     </td>
   </tr>
   <tr>
     <td colspan="2">
       <h2 align="center">🚀 My Story</h2>
       <p align="center">
-        I'm a passionate <strong>Data Scientist & Tech Enthusiast</strong> who loves turning raw data into meaningful insights.  
-        With expertise in <strong>Machine Learning, AI, and Data Analytics</strong>, I enjoy solving real-world problems and creating impactful solutions.  
-        Whether it's data wrangling, predictive modeling, or visualization, I embrace challenges and innovate with technology🚀.  
+        From curiosity to expertise—my journey has been all about exploring the vast world of <strong>data, automation, and intelligence</strong>.  
+        I believe in the power of <strong>data-driven decision-making</strong> and the endless possibilities of AI & Machine Learning.  
+        Every dataset tells a story, and I love uncovering insights that make a difference.  
       </p>
-      </div>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <h3>🌐 My Portfolio</h3>
-      <p>Check out my latest projects and case studies.</p>
+      <p>Check out my latest projects, case studies, and innovations:</p>
       <a href="https://ashvinz.github.io/PortFolio_New/">
       </a>
     </td>
   </tr>
 </table>
+
 
 
 - 🔭 Here's my [portfolio](https://ashvinz.github.io/PortFolio_New/)  
