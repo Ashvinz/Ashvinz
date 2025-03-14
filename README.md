@@ -15,12 +15,12 @@
         
         🔥 Passionate about **emerging tech**, I constantly push boundaries in **Data Science, Machine Learning, and AI** 🤖📊.  
         
-        💡 **Problem-solving is my superpower!** Whether it's **optimizing workflows ⚙️, building predictive models 🔮, or uncovering impactful insights 📈**, I love turning data into action-driven solutions.
+        💡 **Prob lem-solving is my superpower!** Whether it's **optimizing workflows ⚙️, building predictive models 🔮, or uncovering impactful insights 📈**, I love turning data into action-driven solutions.
       </p>
-    </td>
+    </td>  
   </tr>
 </table>
-
+</br>
 ---
 
 ## 🚀 **About Me**  
