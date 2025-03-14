@@ -5,18 +5,16 @@
 <img align="right" width="370" height="290" src="./assets/developer-640px.gif">  
 
 ## 🚀 **About Me**  
-
+<img align="right" width="370" height="290" src="./assets/developer-640px.gif"> 
 - 🔭 Check out my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐  
 - 📊 Strong in **Data Wrangling, EDA (Exploratory Data Analysis), and Visualization**  
 - 🎯 Passionate about **real-world projects that solve meaningful problems**  
 - 🔍 Exploring **AI, Machine Learning, and Deep Learning** 🤖  
-- 🛠️ Building solutions using **Python, Power BI, Tableau, and more**  
 - 🌐 Skilled in **Web Scraping, Web Hosting, and Data Automation**  
 - 💬 Ask me about **Data, Analytics, and AI!**  
 - ⚡ **Fun Fact:** If data is messy, I treat it like a puzzle 🧩—cleaning it is part of the fun!  
 - 🚀 I believe **data tells a story**, and my job is to make it understandable.  
 - 🔥 Continuously **learning, innovating, and pushing boundaries** in tech.  
-- 🌟 Striving to **bridge the gap between data and business impact** through insights.  
 
 ---
 
