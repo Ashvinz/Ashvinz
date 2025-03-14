@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400px" style="border-radius: 10px;" />
+      <img src="./assets/developer-300px.gif" width="400px" style="border-radius: 10px;" />
     </td>
     <td>
       <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" style="border-radius: 10px;" />
@@ -20,9 +20,6 @@
         With expertise in <strong>Machine Learning, AI, and Data Analytics</strong>, I enjoy solving real-world problems and creating impactful solutions.  
         Whether it's data wrangling, predictive modeling, or visualization, I embrace challenges and innovate with technology🚀.  
       </p>
-      <div align="center">
-        <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="Profile Views" width="150" />  
-        <p>📊 Profile Views</p>
       </div>
     </td>
   </tr>
@@ -31,7 +28,6 @@
       <h3>🌐 My Portfolio</h3>
       <p>Check out my latest projects and case studies.</p>
       <a href="https://ashvinz.github.io/PortFolio_New/">
-        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200px" />
       </a>
     </td>
   </tr>
