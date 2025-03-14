@@ -2,6 +2,8 @@
 
 ### 📊 **Data Analyst** | 🤖 **Data Scientist** | 💡 **Tech Enthusiast**  
 
+---
+
 <img align="right" width="370" height="290" src="./assets/developer-640px.gif">  
 
 - 🔭 Check out my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐  
