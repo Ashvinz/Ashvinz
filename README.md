@@ -6,18 +6,37 @@
 <table>
   <tr>
     <td>
-      <img src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="850px" style="border-radius: 50%;" />
+      <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400px" style="border-radius: 10px;" />
     </td>
     <td>
-      <p align="left">
-        I specialize in building <strong>scalable, modern, and high-performance applications</strong> across frontend and backend technologies. Passionate about emerging tech and innovation, I'm constantly learning and pushing the boundaries of what's possible. Oh, and I also founded <a href="https://desphixs.io"><strong>Desphixs</strong></a>.
+      <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" style="border-radius: 10px;" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h2 align="center">🚀 My Story</h2>
+      <p align="center">
+        I'm a passionate <strong>Data Scientist & Tech Enthusiast</strong> who loves turning raw data into meaningful insights.  
+        With expertise in <strong>Machine Learning, AI, and Data Analytics</strong>, I enjoy solving real-world problems and creating impactful solutions.  
+        Whether it's data wrangling, predictive modeling, or visualization, I embrace challenges and innovate with technology🚀.  
       </p>
-      <div align="left">
-        <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="desphixs" width="150" /> <br> Profile Views
+      <div align="center">
+        <img src="https://profile-counter.glitch.me/desphixs/count.svg" alt="Profile Views" width="150" />  
+        <p>📊 Profile Views</p>
       </div>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🌐 My Portfolio</h3>
+      <p>Check out my latest projects and case studies.</p>
+      <a href="https://ashvinz.github.io/PortFolio_New/">
+        <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200px" />
+      </a>
+    </td>
+  </tr>
 </table>
+
 
 - 🔭 Here's my [portfolio](https://ashvinz.github.io/PortFolio_New/)  
 - 📊 Strong in data wrangling, EDA (Exploratory Data Analysis), and data visualization                                               
