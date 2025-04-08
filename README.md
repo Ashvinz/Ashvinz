@@ -8,11 +8,11 @@
 
 - 🔭 Check out my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐  
 - 📊 Strong in **Data Wrangling, EDA (Exploratory Data Analysis), and Visualization**  
-- 🤖 Passionate about **AI, Machine Learning, and Deep Learning**  
-- 🌐 Skilled in **CI/CD Pipeline, Web Scraping, Web Hosting, and Data Automation**  
-- 💬 Ask me about **Data, Analytics, AI, Data Science, Data Engineer and Automation!**  
-- 🚀 I believe **data tells a story**, and my job is to make it understandable  
-- 🔥 Constantly **learning, innovating, and pushing boundaries** in tech  
+- 🤖 Expertise in **Machine Learning**, **Deep Learning**, and **AI model deployment**
+- 🔁 Building smart systems using **Automation Tools** like `n8n`, `Zapier`, and `Power Automate`
+- 🌐 Developing robust backends using `FastAPI`, `Flask`, and `Django`
+- 🛠️ Automating workflows, scraping the web, and deploying scalable ML solutions
+- 💬 Love solving real-world problems with **data-driven thinking** and **Python code** 
 
 ---
 ## 📞 Let's Connect
