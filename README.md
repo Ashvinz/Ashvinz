@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Aswin Kumar**  
 
-### 📊 **Data Analyst** | 🤖 **Data Scientist** | 💡 **Tech Enthusiast**  
+### 📊 **Data Analyst** | 🤖 **Data Scientist** | ⚙️ **AI & Automation Enthusiast**  
 
 ---
 
@@ -8,12 +8,24 @@
 
 - 🔭 Check out my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐  
 - 📊 Strong in **Data Wrangling, EDA (Exploratory Data Analysis), and Visualization**  
-- 🎯 Passionate about **real-world projects that solve meaningful problems**  
-- 🔍 Exploring **AI, Machine Learning, and Deep Learning** 🤖  
+- 🤖 Passionate about **AI, Machine Learning, and Deep Learning**  
+- ⚙️ Building **automation workflows** using **Zapier**, **n8n**, and **Microsoft Power Automate**  
 - 🌐 Skilled in **Web Scraping, Web Hosting, and Data Automation**  
-- 💬 Ask me about **Data, Analytics, and AI!**  
-- 🚀 I believe **data tells a story**, and my job is to make it understandable.  
-- 🔥 Continuously **learning, innovating, and pushing boundaries** in tech.  
+- 💬 Ask me about **Data, Analytics, AI, and Automation!**  
+- 🚀 I believe **data tells a story**, and my job is to make it understandable  
+- 🔥 Constantly **learning, innovating, and pushing boundaries** in tech  
+
+---
+
+## 🧠 **AI & Automation Skills**
+
+### 🤖 **Artificial Intelligence**  
+- Machine Learning, Deep Learning, NLP  
+- AI model deployment using **TensorFlow**, **PyTorch**, **Keras**, **FastAPI**, **Django**
+
+### 🔁 **Automation Tools**  
+- **Zapier**, **Microsoft Power Automate**, **n8n**  
+- **Web scraping bots**, **automated reports**, **workflow triggers**, **data syncing**
 
 ---
 
@@ -34,11 +46,11 @@
 ### 🗄️ **Databases & Cloud**  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)  
 
-### 🌍 **Web Scraping & Hosting**  
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-88C0D0?style=for-the-badge&logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+### 🔁 **Automation, DevOps & Tools**  
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)![n8n](https://img.shields.io/badge/-n8n-ff6d00?style=for-the-badge&logo=n8n&logoColor=white)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
 
-### 🔁 **Automation & DevOps & Tools**
-![n8n](https://img.shields.io/badge/-n8n-ff6d00?style=for-the-badge&logo=n8n&logoColor=white)![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+### 🌍 **Web Scraping & Hosting**  
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white) ![Scrapy](https://img.shields.io/badge/-Scrapy-88C0D0?style=for-the-badge&logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
 
 ---
 
