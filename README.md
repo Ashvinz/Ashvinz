@@ -9,16 +9,18 @@
 - 🔭 Check out my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐  
 - 📊 Strong in **Data Wrangling, EDA (Exploratory Data Analysis), and Visualization**  
 - 🤖 Passionate about **AI, Machine Learning, and Deep Learning**  
-- ⚙️ Building **automation workflows** using **Zapier**, **n8n**, and **Microsoft Power Automate**  
-- 🌐 Skilled in **Web Scraping, Web Hosting, and Data Automation**  
-- 💬 Ask me about **Data, Analytics, AI, and Automation!**  
+- 🌐 Skilled in **CI/CD Pipeline, Web Scraping, Web Hosting, and Data Automation**  
+- 💬 Ask me about **Data, Analytics, AI, Data Science, Data Engineer and Automation!**  
 - 🚀 I believe **data tells a story**, and my job is to make it understandable  
 - 🔥 Constantly **learning, innovating, and pushing boundaries** in tech  
 
 ---
 ## 📞 Let's Connect
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/Ashvinz/) [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Ashvinz)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ashvinz/)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashvinz)  [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/ashvinz)  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/aswinkumar_003)
+
+📱 **Phone:** +91 75388 86833  
+📧 **Email:** [ashvinz.dev@gmail.com](mailto:ashvinz.dev@gmail.com)
 
 ---
 
