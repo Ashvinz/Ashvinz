@@ -7,8 +7,8 @@
 <img align="right" width="370" height="290" src="./assets/developer-640px.gif">  
 
 - 🔭 Check out my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐
-- 🚀 Founding **[Wisoft Global Solution](https://ashvinz.github.io/wisoft-portfolio/)** — a startup focused on cutting-edge IT solutions, including 
-  Data Science, Web Development, and Cloud Automation.
+- 🌟 Aspiring to launch **[Wisoft Solution ✨](https://ashvinz.github.io/wisoft-portfolio/)** — my future IT venture aiming to empower businesses 
+  through **Data Science, Web Development, and Cloud Automation**.
 - 📊 Strong in **Data Wrangling, EDA (Exploratory Data Analysis), and Visualization**  
 - 🤖 Expertise in **Machine Learning**, **Deep Learning**, and **AI model deployment**
 - 🔁 Building smart systems using **Automation Tools** like `n8n`, `Zapier`, and `Power Automate`
