@@ -75,7 +75,11 @@
 
 ## 🧠 LeetCode Problem Solving
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ashvinz?theme=light&font=Ubuntu&ext=activity)](https://leetcode.com/u/ashvinz/)
+<p align="center">
+  <a href="https://leetcode.com/u/ashvinz/">
+    <img src="https://leetcard.jacoblin.cool/ashvinz?theme=light&font=Ubuntu&ext=activity" alt="LeetCode Stats" />
+  </a>
+</p>
 
 --
 
