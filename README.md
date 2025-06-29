@@ -77,9 +77,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/ashvinz/">
-    <img src="https://leetcard.jacoblin.cool/ashvinz?theme=light&font=Ubuntu&ext=activity" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ashvinz?theme=light&font=Ubuntu&ext=solved" alt="LeetCode Solved Problems" />
   </a>
 </p>
+
 
 --
 
