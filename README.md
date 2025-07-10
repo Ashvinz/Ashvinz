@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Aswin Kumar**  
 
-### 📊 **Data Analyst**  |   **Data Scientist**  |  ⚙️ **Gen AI & Automation Enthusiast**  
+### 📊 **Data Analyst**  |  **Data Scientist**  |  ⚙️ **Gen AI & Automation Enthusiast**  
 
 ---
 
