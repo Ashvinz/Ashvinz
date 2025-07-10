@@ -7,13 +7,12 @@
 <img align="right" width="370" height="290" src="./assets/developer-640px.gif">  
 
 - 🔭 Check out my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐  
-- 📊 Strong in **Data Wrangling, EDA (Exploratory Data Analysis), and Visualization**  
-- 🤖 Expertise in **Machine Learning**, **Deep Learning**, and **AI model deployment**  
-- 🔁 Building smart systems using **Automation Tools** like `n8n`, `Zapier`, and `Power Automate`  
-- 🌐 Developing robust backends using `FastAPI`, `Flask`, and `Django`  
-- 🛠️ Automating workflows, scraping the web, and deploying scalable ML solutions  
-- 💬 Love solving real-world problems with **data-driven thinking** and **Python code**  
-
+- 📊 Expert in Data Wrangling, EDA, and Visualization using Pandas, Seaborn, Power BI, and Tableau
+- 🤖 Skilled in Machine Learning & Deep Learning with hands-on experience in TensorFlow, Keras, and PyTorch 
+- 🧠 Building GenAI Apps & LLM Pipelines using OpenAI, LangChain, Hugging Face, and Ollama
+- 🔍 Developing RAG-based Systems with custom embeddings, FAISS, and knowledge-driven chat interfaces
+- 🔁 Automating Workflows & ETL Pipelines with Apache Airflow, n8n, Zapier, and Power Automate
+- 🌐 Creating Scalable APIs & Backend Services using FastAPI, Flask, Django, and deploying on Docker/Linux
 ---
 
 ## 📞 Let's Connect
