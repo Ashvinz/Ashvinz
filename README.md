@@ -54,15 +54,6 @@
 
 ---
 
-## 📊 **GitHub Stats**  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashvinz&show_icons=true&theme=radical" height="150px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashvinz&theme=radical" height="150px" />
-</p>
-
----
-
 ## 🧠 LeetCode Problem Solving
 
 <p align="center">
