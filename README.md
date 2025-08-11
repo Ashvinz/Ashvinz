@@ -14,7 +14,8 @@
 
 <img align="right" width="370" height="290" src="./assets/developer-640px.gif">  
 
-- 🔭 Explore my **[Portfolio](https://ashvinz.github.io/PortFolio_New/)** 🌐  
+- 🔭 Explore my **[Portfolio](https://ashvinz.github.io/portfolio
+- /)** 🌐  
 - 📊 Proficient in Data Wrangling, EDA, and BI Reporting using **Pandas, Seaborn, Power BI, and Tableau**  
 - 🤖 Experienced in developing **Machine Learning & Deep Learning solutions** using **TensorFlow, Keras, and PyTorch**  
 - 🧠 Focused on **LLM-based App Development** with **OpenAI, LangChain, Hugging Face**, and **Ollama**  
