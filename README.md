@@ -5,13 +5,13 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://linkedin.com/in/itsaswin">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashvinz-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-itsaswin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:itsaswin.in@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-itsaswin.in@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-itsaswin.in@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://itsaswin.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-itsaswin.vercel.app-38BDAE?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-itsaswin.vercel.app-38BDAE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
@@ -29,12 +29,12 @@
 
 ```python
 class AswinKumarR:
-    name        = "Aswin Kumar R"
-    location    = "Nagercoil, Tamil Nadu, India"
-    degree      = "B.E. Computer Science Engineering (Anna University)"
-    role        = "Software Developer | ML Engineer"
-    email       = "itsaswin.in@gmail.com"
-qw
+    name     = "Aswin Kumar R"
+    location = "Nagercoil, Tamil Nadu, India"
+    degree   = "B.E. Computer Science Engineering (Anna University)"
+    role     = "Software Developer | ML Engineer"
+    email    = "itsaswin.in@gmail.com"
+
     stack = [
         "Python", "SQL", "TensorFlow", "LangChain",
         "HuggingFace", "FastAPI", "Flask", "Docker", "Power BI"
@@ -96,32 +96,40 @@ qw
 
 ---
 
-
----
-
 ## 💼 Work Experience
 
 <details>
-<summary><strong>💻 HIGS Software Solutions — Software Engineer (Python) &nbsp;|&nbsp; 2026 – Present &nbsp;|&nbsp; India</strong></summary>
+<summary><strong>💻 HIGS Software Solutions — Python Developer &nbsp;|&nbsp; Jun 2026 – Present &nbsp;|&nbsp; Nagercoil, India</strong></summary>
 
-Jun 2026 – Present
+<br/>
 
-</details>
+- Develop and train Deep Learning models (CNN, RNN, LSTM, Transfer Learning) using TensorFlow and Keras for classification and prediction tasks
+- Build Computer Vision pipelines for image processing and object analysis using OpenCV
+- Handle end-to-end data workflows — preprocessing, feature extraction, augmentation, and model optimization
+- Develop desktop AI applications using Tkinter and CustomTkinter with full model integration
+- Work on research-adjacent projects in predictive analytics, NLP, and image processing
 
-<details>
-<summary><strong>💻 KMMC Medical College & Medical Centre — Software Developer &nbsp;|&nbsp; 2025 – 2026 &nbsp;|&nbsp; Nagercoil, India</strong></summary>
-
-Aug 2025 – Feb 2026
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 </details>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+<details>
+<summary><strong>🏥 KMMC Medical College & Hospitals — System & Database Administrator &nbsp;|&nbsp; Aug 2025 – Jan 2026 &nbsp;|&nbsp; Kanyakumari, India</strong></summary>
 
+<br/>
+
+- Managed system administration, data validation, and compliance updates across institutional platforms
+- Handled NMC-related documentation, regulatory submissions, and official website maintenance
+- Supported internal application development ensuring data accuracy and operational reliability
+- Coordinated system-level updates and ensured platform stability across departments
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </details>
 
@@ -133,7 +141,7 @@ Aug 2025 – Feb 2026
 
 | Degree | Institution | Year | Score |
 |--------|------------|------|-------|
-| B.E. Computer Science Engineering | Vins Christian College of Engineering, Anna University | 2025 | 7.9 / 10 CGPA |
+| B.E. Computer Science Engineering | Vins Christian College of Engineering, Anna University | 2024 | 8.0 / 10 CGPA |
 | HSC - Computer Science | Hindu Vidyalaya Matriculation School | — | 70% |
 
 </div>
